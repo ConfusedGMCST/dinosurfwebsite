@@ -1,7 +1,11 @@
 /*an aubergine gradient going from light purple to dark purple, because its my favorite color.*/
+.bytesized-regular {
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
 body {
     background: linear-gradient(90deg,#c36ece, #91129c);
-
 }
 /*radical dinosaur surfing up the waves frfr on drizzy*/
 img {
@@ -9,15 +13,6 @@ img {
     border-radius: 15px;
     filter: drop-shadow(30px 10px 40px #a7d1e9);
 }
-/*
-icl ts pmo sm n sb rn ngl,
-r u srsly srs n fr rn vro? 
-lol atp js go 💔… 
-b fr vro, 
-idek nm, 
-brb gng gtg atm lmao, 
-bt ts pyo 2 js lmk lol onb fr.
-*/
 p {
     font-family: fantasy;
 }
@@ -31,4 +26,8 @@ h2 {
 .caption {
     color: white;
     font-size: large;
+}
+
+.name {
+    font-family: Bytesized;
 }
